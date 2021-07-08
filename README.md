@@ -2,7 +2,7 @@
 
 Custom CSS files for Markdown themes.
 
-# Darkishdown.css
+## darkishdown.css
 
 > *make the Web prettier...and increasingly homogenous...with questionable compatibility with document readers.*
 
